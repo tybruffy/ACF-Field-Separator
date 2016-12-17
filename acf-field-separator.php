@@ -11,7 +11,7 @@
 */
 
 function include_field_types_field_separator( $version ) {
-    include_once('acf-field-separator-v5.php');
+    include_once('acf-field_separator-v5.php');
 }
 add_action('acf/include_field_types', 'include_field_types_field_separator'); 
 
