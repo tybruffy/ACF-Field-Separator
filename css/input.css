@@ -1,13 +1,11 @@
-
-
-.acf-fields > .field_type-separator {
-	padding: 15px 12px 5px;
+.acf-fields .acf-field-separator {
+	padding: 15px 12px 5px !important;
 }
 
-.acf-fields > .field_type-separator .acf-label {
+.acf-fields .acf-field-separator .acf-label {
 	display: none;
 }
 
-.field_type-separator h2.acf-heading {
+.acf-field-separator h2.acf-heading {
 	margin: 0 !important;
 }
