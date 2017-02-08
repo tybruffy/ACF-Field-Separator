@@ -87,11 +87,11 @@ class acf_field_separator extends acf_field {
 		?>
 		<style type="text/css">
 
-		.acf-field-list .field_type-separator tr[data-name="name"], 
-		.acf-field-list .field_type-separator tr[data-name="instructions"], 
-		.acf-field-list .field_type-separator tr[data-name="required"], 
-		.acf-field-list .field_type-separator tr[data-name="wrapper"], 
-		.acf-field-list .field_type-separator tr[data-name="warning"] {
+		.acf-field-list .acf-field-object-separator tr[data-name="name"], 
+		.acf-field-list .acf-field-object-separator tr[data-name="instructions"], 
+		.acf-field-list .acf-field-object-separator tr[data-name="required"], 
+		.acf-field-list .acf-field-object-separator tr[data-name="wrapper"], 
+		.acf-field-list .acf-field-object-separator tr[data-name="warning"] {
 			display: none !important;
 		}
 		</style>
